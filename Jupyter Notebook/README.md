@@ -8,11 +8,7 @@ https://youtu.be/LeI4BPuWqCg
 
 Download the necessary files from the following link:
 
-| Name | URL |
-| --- | --- |
-| Apache Spark | [[Downloads | Apache Spark](https://spark.apache.org/downloads.html)](https://spark.apache.org/downloads.html) |
-| winutils.exe | [[winutils.exe](https://github.com/steveloughran/winutils/blob/master/hadoop-3.0.0/bin/winutils.exe)](https://github.com/steveloughran/winutils/blob/master/hadoop-3.0.0/bin/winutils.exe) |
-| Anaconda | https://www.anaconda.com/download |
+[Resources](https://itsmevee.notion.site/Resources-Apache-PySpark-for-Window-OS-18dc45e4348d80d894c0e8d5e3c46aa7#18dc45e4348d804588a4c0f0ff5c2b3d)
 
 Ensure you download and extract the appropriate versions of Spark (3.5.4) and Hadoop (3.0.0).
 
